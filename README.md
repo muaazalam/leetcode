@@ -26,4 +26,20 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/muaazalam/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/muaazalam/leetcode/tree/master/0242-valid-anagram) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/muaazalam/leetcode/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/muaazalam/leetcode/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/muaazalam/leetcode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/muaazalam/leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
